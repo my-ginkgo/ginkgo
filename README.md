@@ -88,7 +88,8 @@ direttamente in app o di connettere un servizio proprietario per ampliare infini
 
 🌐 [WEB](https://app.myginkgo.tech/login)
 
-📱 [ANDROID](https://firebasestorage.googleapis.com/v0/b/ginkgo-8b79b.appspot.com/o/SDK_ANDROID%2Fapp-debug.apk?alt=media&token=5d3bc11d-2890-4503-b8fa-c40e4750ff90)
+📱 [ANDROID](https://firebasestorage.googleapis.com/v0/b/ginkgo-8b79b.appspot.com/o/SDK_ANDROID%2Fapp-debug.apk?alt=media&token=00e9c257-52e7-4790-803f-06f8d6271890)
+
 
 # Requisiti di sistema :)
 
