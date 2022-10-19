@@ -1,11 +1,11 @@
-# Ginkgo
+![logo-full.png](logo-full.png)
 
 Progetto indipendente che si pone l’obbiettivo di creare uno strumento dinamico che semplifichi la raccolta, la
 manipolazione, l’analisi e la visualizzazione, anche in modalità live, dei dati raccolti da dispositivi di differente
 tipologia e ssttore di applicazione.
 
-Ad oggi Ginkgo permette la raccolta delle seguenti
-t[ipologie di](https://www.notion.so/Metriche-edc625d412144db3b10b27173c72a7d3) [dati](https://www.notion.so/Metriche-edc625d412144db3b10b27173c72a7d3):
+Ad oggi Ginkgo permette la raccolta delle
+seguenti [tipologie di](https://www.notion.so/Metriche-edc625d412144db3b10b27173c72a7d3) [dati](https://www.notion.so/Metriche-edc625d412144db3b10b27173c72a7d3):
 
 - [Geolocalizzazione (GPS)](https://www.notion.so/Geolocalizzazione-GPS-8d67fcabe495487ea0e3dc57a83321c8)
 - [Frequenza Cardiaca](https://www.notion.so/Frequenza-Cardiaca-2b5f57cc2ff349f1bb81893529bd0e98)
@@ -84,26 +84,21 @@ le metriche calcolate a quell’istante.
 Questo strumento permetterà anche ad altri utenti di poter visualizzare in tempo reale la tua sessione di raccolta dati
 direttamente in app o di connettere un servizio proprietario per ampliare infinitamente le possibilità.
 
-# 🎯 Demo App
+# Demo App
 
-[WEB](https://app.myginkgo.tech/login)
+🌐 [WEB](https://app.myginkgo.tech/login)
 
-[ANDROID](https://firebasestorage.googleapis.com/v0/b/ginkgo-8b79b.appspot.com/o/SDK_ANDROID%2Fapp-debug.apk?alt=media&token=5d3bc11d-2890-4503-b8fa-c40e4750ff90)
+📱 [ANDROID](https://firebasestorage.googleapis.com/v0/b/ginkgo-8b79b.appspot.com/o/SDK_ANDROID%2Fapp-debug.apk?alt=media&token=5d3bc11d-2890-4503-b8fa-c40e4750ff90)
 
 # Requisiti di sistema :)
 
 **Web App Hybrid**
 
 - Ionic (Angular ❤️)
-
 - Capacitor
-
 - Leaflet
-
 - ChartJs
-
 - VideoJs
-
 - Tailwind
 
 **MicroServices**
@@ -136,9 +131,10 @@ Firebase
 
 ### 🚀COMMUNITY ROADMAP:
 
-### Il nostro piano di lavoro sempre disponibile su [Notion](https://my-ginkgo.notion.site/eb23a4f0ec634163a3823a83ec0b08c2?v=9772758fa71d47babe95086f70cf2706).
+### Il nostro piano di lavoro sempre disponibile su [Notion](https://www.notion.so/eb23a4f0ec634163a3823a83ec0b08c2).
 
 # Contatti
+
 **EMAIL** 📮
 
 *Support:* support@myginkgo.tech
@@ -146,5 +142,5 @@ Firebase
 *Info:* hello@myginkgo.tech
 
 ### Il nostro canale [Discord](https://discord.gg/7jkEMHZ4):
-[Join the MyGinkgo Discord Server!](https://discord.com/invite/7jkEMHZ4)
 
+[Join the MyGinkgo Discord Server!](https://discord.com/invite/7jkEMHZ4)
