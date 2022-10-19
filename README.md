@@ -84,35 +84,35 @@ le metriche calcolate a quell’istante.
 Questo strumento permetterà anche ad altri utenti di poter visualizzare in tempo reale la tua sessione di raccolta dati
 direttamente in app o di connettere un servizio proprietario per ampliare infinitamente le possibilità.
 
-**Le tecnologie utilizzate sono le seguenti:**
+
+
+# Requisiti di sistema :)
 
 **Web App Hybrid**
 
-Ionic (Angular ❤️)
+- Ionic (Angular ❤️)
 
-Capacitor
+- Capacitor
 
-Leaflet
+- Leaflet
 
-ChartJs
+- ChartJs
 
-VideoJs
+- VideoJs
 
-Tailwind
+- Tailwind
 
 **MicroServices**
 
 *Sport Analytics*
 
-NodeJs (Express)
-
-MongoDB 🔥
+- NodeJs (Express)
+- MongoDB 🔥
 
 Identity Manager
 
-Java (Spring Boot 💡)
-
-SQL Server DB
+- Java (Spring Boot 💡)
+- SQL Server DB
 
 **Cloud**
 
@@ -146,6 +146,7 @@ Firebase
 *Info:* hello@myginkgo.tech
 
 ### Il nostro canale [Discord](https://discord.gg/7jkEMHZ4):
-
 [Join the MyGinkgo Discord Server!](https://discord.com/invite/7jkEMHZ4)
+
+
 
