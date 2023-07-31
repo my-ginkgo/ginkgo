@@ -124,15 +124,6 @@ Firebase
 
 *Coming soon…*
 
-# Parliamo di futuro?
-
-### 💻DEV ROADMAP:
-
-### Il nostro piano di lavoro sempre disponibile su [Github](https://github.com/my-ginkgo).
-
-### 🚀COMMUNITY ROADMAP:
-
-### Il nostro piano di lavoro sempre disponibile su [Notion](https://www.notion.so/eb23a4f0ec634163a3823a83ec0b08c2).
 
 # Contatti
 
